@@ -18,6 +18,8 @@
 
 ## Examples of Work 
 
+<img    src = "https://github.com/JiananChenUST/JiananChenUST/blob/main/cm1out.gif"  width='250'>
+
 
 
 
