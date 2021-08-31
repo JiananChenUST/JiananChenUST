@@ -25,7 +25,7 @@
 
 ;## Examples of Work 
 
-;<img    src = "https://github.com/JiananChenUST/JiananChenUST/blob/main/cm1out.gif"> 
+[/< src = "https://github.com/JiananChenUST/JiananChenUST/blob/main/cm1out.gif"> /]
 
 
 
