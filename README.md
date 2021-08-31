@@ -3,6 +3,10 @@
 - 🌱 I’m currently a research student at HKUST
 - 📫 How to reach me jianan.chen@connect.ust.hk ...
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiananChenUST)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 JiananChenUST/JiananChenUST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
