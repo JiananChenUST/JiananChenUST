@@ -15,8 +15,7 @@
 - 💻: Python / NCL / Fortran 
 - 👨‍🎓: 2015.09-2018.06:   Bachelor in Atmospheric Science at [Nanjing University of Information Science and Technology](https://baike.baidu.com/item/%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6/382077)
 - 👨‍🎓: 2018.09-2020.06:   Bachelor in Environmental Science (Atmospheric Science) at [The University of Manchester](https://www.manchester.ac.uk) 
-
-
+- 👨‍🎓: 2021.02-       :   PhD student in Atmospheric Environmental Science at Hong Kong University of Science and Techonolpgy
 
 - 📫 How to reach me: jianan.chen@connect.ust.hk 
 - ⚡ Fun fact: I'm 24 years old and haven't gone to Starbucks yet  :  ) . 
