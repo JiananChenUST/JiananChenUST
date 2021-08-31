@@ -6,6 +6,19 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiananChenUST)](https://github.com/anuraghazra/github-readme-stats)
 
+### Hi there 👋, I am Jianan Chen 
+#### PhD student in Atmospheric environmental science at HKUST 
+![PhD student in Atmospheric environmental science at HKUST ](https://github.com/JiananChenUST/JiananChenUST/blob/main/HKUST.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: Python / NCL / Fortran   
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 <!---
 JiananChenUST/JiananChenUST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
