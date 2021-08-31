@@ -8,7 +8,7 @@
 
 ### Hi there 👋, I am Jianan Chen 
 #### PhD student in Atmospheric environmental science(AES)
-![PhD student in Atmospheric environmental science(AES)](https://github.com/JiananChenUST/JiananChenUST/blob/main/HKUST.png)
+![PhD student in Atmospheric Environmental Science(AES)](https://github.com/JiananChenUST/JiananChenUST/blob/main/HKUST.png)
 
 Hi, I am a PhD student of AES program at Hong Kong University of Science and Technology. 
 
