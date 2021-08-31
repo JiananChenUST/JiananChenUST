@@ -7,12 +7,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiananChenUST)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋, I am Jianan Chen 
-#### PhD student in Atmospheric Environmental Science(AES)
+#### PhD student in Atmospheric Environmental Science(AES)at Hong Kong University of Science and Technology
 ![PhD student in Atmospheric Environmental Science(AES)](https://github.com/JiananChenUST/JiananChenUST/blob/main/HKUST.png)
 
-Hi, I am a PhD student of AES program at Hong Kong University of Science and Technology. 
 
-Skills: Python / NCL / Fortran   
+### Skills and Experiences 
+💻: Python / NCL / Fortran 
+
 
 - 🌱 I’m currently learning Mountain meteorolgy  
 - 📫 How to reach me: jianan.chen@connect.ust.hk 
