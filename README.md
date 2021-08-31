@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiananChenUST)](https://github.com/anuraghazra/github-readme-stats)
 
-# am Jianan Chen 
+# Jianan Chen 
 #### PhD student in Atmospheric Environmental Science(AES)at Hong Kong University of Science and Technology
 ![PhD student in Atmospheric Environmental Science(AES)](https://github.com/JiananChenUST/JiananChenUST/blob/main/HKUST.png)
 
