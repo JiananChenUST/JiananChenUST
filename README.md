@@ -1,12 +1,6 @@
-- 👋 Hi, I’m Jianan Chen
-- 👀 I’m interested in table tennis, hiking and tropical cyclones...
-- 🌱 I’m currently a research student at HKUST
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiananChenUST)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋, I am Jianan Chen 
+# am Jianan Chen 
 #### PhD student in Atmospheric Environmental Science(AES)at Hong Kong University of Science and Technology
 ![PhD student in Atmospheric Environmental Science(AES)](https://github.com/JiananChenUST/JiananChenUST/blob/main/HKUST.png)
 
