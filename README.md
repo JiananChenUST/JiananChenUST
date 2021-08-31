@@ -8,7 +8,7 @@
 
 ### Hi there 👋, I am Jianan Chen 
 #### PhD student in Atmospheric environmental science at HKUST 
-![PhD student in Atmospheric environmental science at HKUST ](https://github.com/JiananChenUST/JiananChenUST/blob/main/HKUST.png)
+![PhD student in Atmospheric environmental science at HKUST](https://github.com/JiananChenUST/JiananChenUST/blob/main/HKUST.png)
 
 
 Skills: Python / NCL / Fortran   
