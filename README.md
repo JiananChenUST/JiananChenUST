@@ -28,7 +28,9 @@
 
 [//]: # (哈哈我是注释，不会在浏览器中显示。)
 [//]: # (  < src = "https://github.com/JiananChenUST/JiananChenUST/blob/main/cm1out.gif">     )
+## Examples of Work 
 
+< src = "https://github.com/JiananChenUST/JiananChenUST/blob/main/animation.gif"> 
 
 
 ## Github Stats
