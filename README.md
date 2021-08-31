@@ -30,7 +30,7 @@
 [//]: # (  < src = "https://github.com/JiananChenUST/JiananChenUST/blob/main/cm1out.gif">     )
 ## Examples of Work 
 
-< src= "https://github.com/JiananChenUST/JiananChenUST/blob/main/animation.gif" > 
+< img src= "https://github.com/JiananChenUST/JiananChenUST/blob/main/animation.gif" > 
 
 
 ## Github Stats
