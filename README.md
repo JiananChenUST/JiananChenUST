@@ -25,5 +25,3 @@ Skills: Python / NCL / Fortran
 
 ![Profile views](https://gpvc.arturio.dev/JiananChenUST)  
 
-
-
