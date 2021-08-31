@@ -13,9 +13,11 @@
 
 ## Skills and Experiences 
 💻: Python / NCL / Fortran 
+👨‍🎓: 2015.09 - 2018.06 Bachelor of Atmospheric Science  [Nanjing University of Information Science and Technology】(https://baike.baidu.com/item/%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6/382077)
 
 
-- 🌱 I’m currently learning Mountain meteorolgy  
+
+
 - 📫 How to reach me: jianan.chen@connect.ust.hk 
 - ⚡ Fun fact: I'm 24 years old and haven't gone to Starbucks yet  :  ) . 
 
@@ -26,7 +28,9 @@
 
 ## Examples of Work 
 
-<img    src = "https://github.com/JiananChenUST/JiananChenUST/blob/main/cm1out.gif">
+<img    src = "https://github.com/JiananChenUST/JiananChenUST/blob/main/cm1out.gif"> 
+
+
 
 ## Github Stats
 
