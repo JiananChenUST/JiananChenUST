@@ -12,8 +12,8 @@
 
 
 ## Skills and Experiences 
-💻: Python / NCL / Fortran 
-👨‍🎓: 2015.09 - 2018.06 Bachelor of Atmospheric Science  [Nanjing University of Information Science and Technology](https://baike.baidu.com/item/%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6/382077)
+- 💻: Python / NCL / Fortran 
+- 👨‍🎓: 2015.09 - 2018.06 Bachelor of Atmospheric Science  [Nanjing University of Information Science and Technology](https://baike.baidu.com/item/%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%A4%A7%E5%AD%A6/382077)
 
 
 
